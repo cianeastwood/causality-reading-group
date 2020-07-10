@@ -4,7 +4,7 @@
 
 **How?**: We will start with exercise-focused textbooks and progress to papers.
 
-**When?**: The current plan is to start in Septemeber (TBC), meeting every week or every second week (TBC).
+**When?**: The current plan is to start in September (TBC), meeting every week or every second week (TBC).
 
 **Where?**: Zoom / Blackboard collaborate / other.
 
