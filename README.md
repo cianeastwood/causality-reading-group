@@ -23,6 +23,7 @@
 2. [Peters J, Janzing D and Sch{\"o}lkopf B (2017). *Elements of Causal Inference - Foundations and Learning Algorithms*](https://mitpress.mit.edu/books/elements-causal-inference)
 3. [Pearl J, Glymour M and Jewell NP (2016). *Causal Inference in Statistics: A Primer*](http://bayes.cs.ucla.edu/PRIMER/)
 
+[Mini reviews](https://www.bradyneal.com/which-causal-inference-book)
 
 ## Papers
 
